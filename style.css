@@ -1,0 +1,37 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+  color: #33338e;
+}
+
+ul  {
+  display: inline-block;
+  padding-top: 1rem; 
+  list-style: none;  
+}
+
+li {
+  display: inline-block;
+  margin-right: 25px;
+  width: 100px; 
+}
+
+.circle-icon {
+  border: 1px solid gray;
+  background-color: #b19cd9;
+  width: 125px;
+  height: 125px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 30px;
+  border-radius: 50%;
+  z-index: 100;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.invisible {
+  visibility: hidden;
+}

@@ -1,0 +1,197 @@
+
+    [
+      {
+        "name": "star",
+        "points": 5           
+      },
+      {
+        "name": "house",
+        "points": 4        
+      },
+      {
+        "name": "share",
+        "points": 2        
+      },
+      {
+        "name": "search",
+        "points": 9        
+      },
+      {
+        "name": "bell",
+        "points": 4        
+      },
+      {
+        "name": "apple",
+        "points": 4        
+      },
+      {
+        "name": "tab",
+        "points": 6        
+      },
+      {
+        "name": "ball",
+        "points": 7        
+      },
+      {
+        "name": "atom",
+        "points": 4        
+      },
+      {
+        "name": "bomb",
+        "points": 3        
+      },
+      {
+        "name": "bike",
+        "points": 1        
+      },
+      {
+        "name": "search",
+        "points": 4        
+      },
+      {
+        "name": "box",
+        "points": 4        
+      },
+      {
+        "name": "arrows",
+        "points": 4        
+      },
+      {
+        "name": "briefcase",
+        "points": 3        
+      },
+      {
+        "name": "bookmark",
+        "points": 4        
+      },
+      {
+        "name": "arrow",
+        "points": 1       
+      },
+      {
+        "name": "bell",
+        "points": 2        
+      },
+      {
+        "name": "addresses",
+        "points": 4        
+      },
+      {
+        "name": "battery",
+        "points": 4        
+      },
+      {
+        "name": "moon",
+        "points": 10        
+      },
+      {
+        "name": "bathtub",
+        "points": 4        
+      },
+      {
+        "name": "cake",
+        "points": 3      
+      },
+      {
+        "name": "audible",
+        "points": 4        
+      },
+
+      {
+        "name": "brain",
+        "points": 4        
+      },
+      {
+        "name": "allergies",
+        "points": 4        
+      },
+      {
+        "name": "reverse",
+        "points": 6        
+      },
+      {
+        "name": "calculator",
+        "points": 4        
+      },
+      {
+        "name": "center",
+        "points": 8        
+      },
+      {
+        "name": "justice",
+        "points": 5        
+      },
+      {
+        "name": "bandaid",
+        "points": 10        
+      },
+      {
+        "name": "bowling",
+        "points": 4        
+      }, 
+      {
+        "name": "bolt",
+        "points": 4        
+      },
+      {
+        "name": "horn",
+        "points": 8        
+      },
+      {
+        "name": "graph",
+        "points": 3        
+      },
+      {
+        "name": "atlas",
+        "points": 6        
+      },
+      {
+        "name": "car",
+        "points": 7     
+      },
+      {
+        "name": "blackberry",
+        "points": 9        
+      },
+      {
+        "name": "cat",
+        "points": 10        
+      },
+      {
+        "name": "bluetooth",
+        "points": 5        
+      },
+      {
+        "name": "blender",
+        "points": 2        
+      },
+      {
+        "name": "anchor",
+        "points": 4        
+      },
+      {
+        "name": "ad",
+        "points": 5        
+      },
+      {
+        "name": "bitbucket",
+        "points": 4        
+      },
+      {
+        "name": "bolt",
+        "points": 4        
+      },
+      {
+        "name": "reader",
+        "points": 7        
+      },
+      {
+        "name": "ankh",
+        "points": 10
+      },
+      {
+        "name": "logo",
+        "points": 4        
+      }
+  ]
+
